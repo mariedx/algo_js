@@ -18,3 +18,6 @@ Un fichier JS que l'on peut exécuter en lui donnant un fichier en paramètre qu
   - Exercice 2
   - Exercice 4
   - Exercice 6
+
+![Alt Text](https://giphy.com/gifs/bird-explosion-parakeet-ceHKRKMR6Ojao);
+
